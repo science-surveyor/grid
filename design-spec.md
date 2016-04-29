@@ -1,13 +1,13 @@
 # `science-surveyor` design spec
 
-The science surveyor is an interactive visualization designed to help science
-journalism find contextual information relevant to new research.
+Science Surveyor is an interactive visualization designed to help science
+journalists find contextual information relevant to new research they are reporting on.
 
-The graphic contains three fields:
+The graphic contains three sections:
 
-1. Abstract view
-2. Map view
-3. Small multiples view
+1. Abstract section
+2. Map section
+3. Small multiples sections
 
 ![0.1 screenshot](images/rough-grid.jpg)
 
